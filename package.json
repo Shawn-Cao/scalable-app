@@ -1,0 +1,24 @@
+{
+  "name": "scalable-app",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shawn-Cao/scalable-app.git"
+  },
+  "keywords": [
+    "dynamic",
+    "app",
+    "builder"
+  ],
+  "author": "Shawn Cao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shawn-Cao/scalable-app/issues"
+  },
+  "homepage": "https://github.com/Shawn-Cao/scalable-app#readme"
+}
